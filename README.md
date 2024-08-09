@@ -1,5 +1,7 @@
 ## Hi there 👋
-<a href="https://wakatime.com/@05cc1d8a-7b79-4d12-b8ef-7a606b059ffb"><img src="https://wakatime.com/badge/user/05cc1d8a-7b79-4d12-b8ef-7a606b059ffb.svg" alt="Total time coded since Aug 9 2024" /></a>
+<p><a href="https://wakatime.com/@05cc1d8a-7b79-4d12-b8ef-7a606b059ffb"><img src="https://wakatime.com/badge/user/05cc1d8a-7b79-4d12-b8ef-7a606b059ffb.svg" alt="Total time coded since Aug 9 2024" /></a></p>
+
+
 <!--
 **AKANYIJUKADANSON/AKANYIJUKADANSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
