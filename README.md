@@ -1,7 +1,5 @@
 ## Hi there 👋
-<div class="col-12">
-<button class="btn btn-primary w-100" name="login" type="submit">LOGIN</button>
-</div>
+[![wakatime](https://wakatime.com/badge/user/05cc1d8a-7b79-4d12-b8ef-7a606b059ffb.svg)](https://wakatime.com/@05cc1d8a-7b79-4d12-b8ef-7a606b059ffb)
 
 <!--
 **AKANYIJUKADANSON/AKANYIJUKADANSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
